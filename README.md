@@ -1,4 +1,4 @@
-# Professional_Summary
+# Professional Summary
 
 👋 Hi, I'm Aniedi Sunday, a passionate Data Analyst skilled in transforming complex data into actionable insights. I specialize in data visualization and database management.
 
