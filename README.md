@@ -1,7 +1,1 @@
-# Professional Summary
-
-👋 Hi, I'm Aniedi Sunday, a passionate Data Analyst skilled in transforming complex data into actionable insights. I specialize in data visualization and database management.
-
-🛠️ Skills: 🔍 Data Analysis: SQL, Python (Pandas, NumPy), R, Excel 📊 Visualization: Tableau, Power BI, Matplotlib 💾 Database Management: SQL Server, MySQL, MongoDB 🔄 ETL Processes: Data cleaning, transformation, loading
-
-👩🏾‍💻 Connect with me on LinkedIn: https://www.linkedin.com/in/aniedi-sunday
+Experienced Data Analyst with 4 years of expertise in managing and analyzing large datasets, creating predictive models, and presenting data-driven insights to diverse audiences. Proficient in data cleaning, data warehousing, and data visualization using tools like Tableau, Power BI, SQL and Python. Demonstrated ability to collaborate effectively with cross-functional teams and enhance enterprise data storage and system performance. Adept at using predictive analytics, machine learning, and data modeling to solve complex business problems and support decision-making processes.
